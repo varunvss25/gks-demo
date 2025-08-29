@@ -1,0 +1,5 @@
+- [ ] ETL OK
+- [ ] Null-rate <2%
+- [ ] Duplicates=0
+- [ ] Tests green
+- [ ] /health 200

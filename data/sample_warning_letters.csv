@@ -1,0 +1,5 @@
+firm,product_type,issuing_office,issue_date,url,raw_text
+"Acme Pharma, Inc.",Drugs,CDER,2025-06-14,https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2025/ACME-12345,"Violations observed: 21 CFR 211.22(b), 21 CFR 211.113(a). Inadequate quality unit authority and contamination control."
+HealthPlus Labs,Biologics,CBER,2025-05-02,https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2025/HPL-67890,"Inspection noted deficiencies against 21 CFR 600.11 and 21 CFR 211.160(b) including lab controls."
+Zen Medical Devices,Devices,CDRH,2024-12-19,https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2024/ZEN-24680,"Nonconformances to 21 CFR 820.70 and 21 CFR 820.100 (CAPA)."
+Global Nutrition Co.,Foods,CFSAN,2025-01-27,https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2025/GNC-13579,"Observed 21 CFR 110.80 and misbranding concerns; sanitation and process controls inadequate."
